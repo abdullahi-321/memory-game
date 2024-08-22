@@ -1,11 +1,11 @@
 let items = [
-    `<img src='bmw.jpg'></img>`,
-    "<img src='audi.png'></img>",
-    "<img src='ferrari.jpg'></img>",
-    "<img src='lambo.jpg'></img>",
-    "<img src='honda.png'></img>",
-    "<img src='toyota.png'></img>",
-    "<img src='mercedes.png'></img>"
+    `<img src='bmw.jpg' alt='bmw.png'></img>`,
+    "<img src='audi.png' alt='audi.png'></img>",
+    "<img src='ferrari.jpg' alt='ferrari.png'></img>",
+    "<img src='lambo.jpg' alt='lambo.png'></img>",
+    "<img src='honda.png' alt='honda.png'></img>",
+    "<img src='toyota.png' alt='toyota.png'></img>",
+    "<img src='mercedes.png' alt='mercedes.png'></img>"
 ]
 items = items.concat(items);
 
